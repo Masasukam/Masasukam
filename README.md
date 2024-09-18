@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4999&pause=1000&color=111111&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Hello%2C+I'm+Matthew+🫡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4999&pause=1000&color=8CCCCC&background=FFFFFF00&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Hello%2C+I'm+Matthew+🫡" alt="Typing SVG" />
 </h1>
 
 <h4 align="center">A passionate software developer, based in the New York metropolitan area </h4>
