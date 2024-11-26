@@ -12,7 +12,7 @@
   
   👀 I have background in both **Computer Science** and **Mathematics**
   
-  🌱 I’m currently working on **Full stack applications** and **Machine Learning projects**
+  🌱 I’m currently working on **Full stack applications**, **Databases**, and **BlockChain-Based projects**
   
   🤔 I'm currently learning about **Parallel Computing** and **3D Reconstruction**
 
